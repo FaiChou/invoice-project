@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import Fields from './fields.json';
+import Data from './expense-account.json';
 
 /**
  * from:
@@ -47,7 +48,7 @@ import Fields from './fields.json';
    ]
  */
 
-export default function parse(data) {
+function parse(data) {
   return Object.keys(data).map(key => {
     const body = data[key]["aggErmInvoice"].map(i => {
       const coordinate = i["m_headVo"]["defitem2"] || '0-0-0-0';

@@ -379,7 +379,7 @@ export default class App extends React.Component {
   render() {
     const {data, selectedIndex} = this.state;
     return (
-      <div className='app-container'>
+      <div className='iiinvoice-app-container'>
         <Left
           data={data}
           selectedIndex={selectedIndex}

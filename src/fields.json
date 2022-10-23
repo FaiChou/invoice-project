@@ -1,0 +1,194 @@
+{
+    "fphm": {
+        "name": "发票号码",
+        "order": 1
+    },
+    "fpdm": {
+        "name": "发票代码",
+        "order": 10
+    },
+    "classification": {
+        "name": "分类",
+        "order": 10000
+    },
+    "fplxpk": {
+        "name": "发票类型主键",
+        "order": 10000
+    },
+    "fplxbm": {
+        "name": "发票类型编码",
+        "order": 10000
+    },
+    "fplxmc": {
+        "name": "发票类型名称",
+        "order": 10000
+    },
+    "kpr": {
+        "name": "开票方",
+        "order": 20
+    },
+    "xsfmc": {
+        "name": "销售方名称",
+        "order": 30
+    },
+    "xsfdzdh": {
+        "name": "销售方地址",
+        "order": 40
+    },
+    "xsfyhzh": {
+        "name": "销售方银行账号",
+        "order": 50
+    },
+    "xsfnsrsbh": {
+        "name": "销售方纳税人识别号",
+        "order": 60
+    },
+    "kprq": {
+        "name": "开票日期",
+        "order": 70
+    },
+    "gmfmc": {
+        "name": "购买方名称",
+        "order": 80
+    },
+    "gmfdzdh": {
+        "name": "购买方地址",
+        "order": 90
+    },
+    "gmfyhzh": {
+        "name": "购买方银行账号",
+        "order": 100
+    },
+    "gmfnsrsbh": {
+        "name": "购买方纳税人识别号",
+        "order": 110
+    },
+    "jshj": {
+        "name": "价税合计",
+        "order": 120
+    },
+    "hjje": {
+        "name": "合计金额",
+        "order": 130
+    },
+    "taxamount": {
+        "name": "税额",
+        "order": 140
+    },
+    "tniamount": {
+        "name": "不含税金额",
+        "order": 150
+    },
+    "fpid": {
+        "name": "发票id",
+        "order": 10000
+    },
+    "starttime": {
+        "name": "上车时间",
+        "order": 160
+    },
+    "endtime": {
+        "name": "下车时间",
+        "order": 170
+    },
+    "place": {
+        "name": "发票所在地",
+        "order": 180
+    },
+    "origin": {
+        "name": "起始站",
+        "order": 190
+    },
+    "destination": {
+        "name": "终点站",
+        "order": 200
+    },
+    "trainnum": {
+        "name": "车次号",
+        "order": 210
+    },
+    "trainlevel": {
+        "name": "坐席",
+        "order": 220
+    },
+    "seatno": {
+        "name": "座位号",
+        "order": 230
+    },
+    "checkcode": {
+        "name": "验证码",
+        "order": 240
+    },
+    "agentcode": {
+        "name": "销售单位代码",
+        "order": 250
+    },
+    "fuelsurcharge": {
+        "name": "燃油附加费",
+        "order": 260
+    },
+    "caacdevelopfund": {
+        "name": "民航发展基金",
+        "order": 270
+    },
+    "insurance": {
+        "name": "保险费",
+        "order": 280
+    },
+    "userid": {
+        "name": "身份证号",
+        "order": 290
+    },
+    "username": {
+        "name": "姓名",
+        "order": 300
+    },
+    "entrance": {
+        "name": "入口",
+        "order": 310
+    },
+    "exit1": {
+        "name": "出口",
+        "order": 320
+    },
+    "purchaserstatus": {
+        "name": "发票报销状态",
+        "order": 330
+    },
+    "productname": {
+        "name": "商品项目名称",
+        "order": 340
+    },
+    "carnum": {
+        "name": "车牌号",
+        "order": 350
+    },
+    "mileage": {
+        "name": "里程",
+        "order": 360
+    },
+    "filename": {
+        "name": "文件名称",
+        "order": 370
+    },
+    "flightnumber": {
+        "name": "航班号",
+        "order": 380
+    },
+    "seat": {
+        "name": "仓位",
+        "order": 390
+    },
+    "airfrom": {
+        "name": "出发",
+        "order": 400
+    },
+    "airto": {
+        "name": "到达",
+        "order": 410
+    },
+    "sl": {
+        "name": "税率",
+        "order": 420
+    }
+}
